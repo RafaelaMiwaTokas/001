@@ -1,0 +1,79 @@
+- Verificar se não há erros de português , nexo ( sintática/ semântica )
+- Zelar pelo que se entrega
+-Declaração de escopo, escrita em BOM PORTUGUÊS
+- Há exemplos no LMS de cada um dos artefatos
+
+-Declaração escopo LMS:
+Qual o negócio?
+Quando surgiu?
+Quem são os proprietários
+Quem são os principais clientes
+Onde fica
+Horário de trabalho
+
+-Toda a informação possível para fragmentar o cliente + 
+o que querem como solução sistêmica
+
+-Proposta de Projeto e Cliente: Enviar um resumo sobre o que faz o cliente e
+sobre o sistema que esse cliente deseja
+
+-É importante detalhar o negócio do cliente, para entender
+a relevância da solução pedida, compreender realmente a
+nescessidade do cliente
+
+-Declaração de escopo, escrita em BOM PORTUGUÊS
+
+-Integrantes do projeto V
+(INCLUSIVE: os clientes que vão participar do projeto, 
+como seu contato)
+
+-Regras de comunicação V
+Como vamos nos comunicar com nosso cliente, sem atrapalhar seu 
+dia a dia, combinar quando teremos reuniões presenciais com 
+o cliente e colocar essas regras
+
+-Glosário V
+???
+
+-Referências ( da Área de negócio )
+Tudo que poderemos consultar sobre o negócio V
+
+Legislação pertinente
+Facebook
+Página do negócio
+Qqr bibliografia que o negócio faça utilização
+
+-Lista de Nescessidades
+Obtém no resumo do analista , quando foi feita a entrevista
+
+
+
+
+
+
+-Análise do Problema , todos os artefatos JÁ entregues na AC7
+( com o Feedback do Takai )
+
+
+
+
+
+-Workshop de características
+( estava pensando em fazer uma segunda reunião com ele antes da quarta 
+pq o número de ideias que conseguimos form insuficientes)
+
+
+-Lista de Características com descrição de cada característica
+-Descrição em BOM PORTUGUÊS
+
+
+-Prioridade X Esforço X Risco e Baseline
+-Exemplo no vídeo
+
+-Aquilo que o cliente disse que precisava > nescesssitava
+com as características da solução, se houver uma característica
+sem uma nescessidade que está sendo encoberta, Então:
+
+Característica não é interessante 
+OU
+Faltam nescessidades
